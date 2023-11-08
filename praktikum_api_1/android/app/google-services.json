@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24024875959",
+    "project_id": "my-community-afd5d",
+    "storage_bucket": "my-community-afd5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24024875959:android:0323d09d289f2ff9ab9e32",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_api_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvrxc3bF5qM2MqDqkgBbT1Q3dbiVXVrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
